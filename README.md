@@ -4,7 +4,6 @@ This is the supplementary material for the article:  'SGD with Coordinate Sampli
 
 ## Description 
 
-- main_long.pdf : contains long version of the article with proofs, lemmas, theorems and additional experimental results
 - optimize_f.mp4: video for visual understanding of optimization paths (see Appendix B)
 - optimize_h.mp4: video for visual understanding of optimization paths (see Appendix B)
 - code/         : folder with the code of the experimental results, the code is written in Python3
@@ -20,6 +19,7 @@ I)StoFirstOrder_optimization
 
 I.1) linear_models   : contains all the code related to the numerical experiments 
 on regularized linear models with stochastic first-order methods (Appendices D and F)
+
 I.2) neural_networks: contains all the code related to the numerical experiments 
 with neural networkks (on MNIST, Fashion-MNIST and CIFAR10 datasets) with stochastic first-order methods (Appendix D)
 
@@ -27,6 +27,7 @@ II)ZeroOrder_optimization
 
 II.1) ZO_linear_models   : contains all the code related to the numerical experiments 
 on regularized linear models with zero-order r methods (Appendix E)
+
 II.2) ZO_neural_networks: contains all the code related to the numerical experiments 
 with neural networkks (on MNIST, Fashion-MNIST and KMNIST datasets) with zero-order methods (Appendix E)
 
