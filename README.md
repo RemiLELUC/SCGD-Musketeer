@@ -58,9 +58,9 @@ I.2) neural_networks:
 
 Python scripts
 - musketeer_optimizer.py: PyTorch optimizer
-- train_mnist.py  : script to train NN on Mnist   with SGD and Muskteer (eta=1,2,10)
-- train_fashion.py: script to train NN on Fashion with SGD and Muskteer (eta=1,2,10)
-- train_cifar10.py: script to train NN on Cifar10 with SGD and Muskteer (eta=1,2,10)
+- train_mnist.py  : script to train NN on Mnist   with SGD and Musketeer (eta=1,2,10)
+- train_fashion.py: script to train NN on Fashion with SGD and Musketeer (eta=1,2,10)
+- train_cifar10.py: script to train NN on Cifar10 with SGD and Musketeer (eta=1,2,10)
 
 Python notebooks to load and plot/save the results
 - plot_graphs_nn.ipynb     : notebook to load and plot/save the graphs of the article
