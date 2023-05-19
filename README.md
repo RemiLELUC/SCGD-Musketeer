@@ -1,6 +1,18 @@
 # SGD with Coordinate Sampling: Theory and Practice
 
-This is the supplementary material for the article:  'SGD with Coordinate Sampling: Theory and Practice', Rémi Leluc and François Portier.
+This is the supplementary material for the article:  'SGD with Coordinate Sampling: Theory and Practice', *Journal of Machine Learning Research 23 (2022)*,  by Rémi LELUC and François PORTIER. [(paper)](https://www.jmlr.org/papers/v23/21-1240.html)
+
+## Citation
+> @article{leluc2022sgd,
+  title={SGD with Coordinate Sampling: Theory and Practice},
+  author={Leluc, R{\'e}mi and Portier, Fran{\c{c}}ois},
+  journal={Journal of Machine Learning Research},
+  volume={23},
+  number={342},
+  pages={1--47},
+  year={2022}
+}
+>
 
 ## Description 
 
