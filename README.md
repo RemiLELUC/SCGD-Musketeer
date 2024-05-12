@@ -5,7 +5,9 @@ This is the supplementary material for the article:  'SGD with Coordinate Sampli
 This implementation is made by [Rémi LELUC](https://remileluc.github.io/).
 
 ## Citation
-> @article{leluc2022sgd,
+
+```bibtex
+@article{leluc2022sgd,
   title={SGD with Coordinate Sampling: Theory and Practice},
   author={Leluc, R{\'e}mi and Portier, Fran{\c{c}}ois},
   journal={Journal of Machine Learning Research},
@@ -14,7 +16,7 @@ This implementation is made by [Rémi LELUC](https://remileluc.github.io/).
   pages={1--47},
   year={2022}
 }
->
+```
 
 ## Description 
 
