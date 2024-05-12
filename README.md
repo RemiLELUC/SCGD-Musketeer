@@ -2,6 +2,8 @@
 
 This is the supplementary material for the article:  'SGD with Coordinate Sampling: Theory and Practice', *Journal of Machine Learning Research 23 (2022)*,  by Rémi LELUC and François PORTIER. [(paper)](https://www.jmlr.org/papers/v23/21-1240.html)
 
+This implementation is made by [Rémi LELUC](https://remileluc.github.io/).
+
 ## Citation
 > @article{leluc2022sgd,
   title={SGD with Coordinate Sampling: Theory and Practice},
